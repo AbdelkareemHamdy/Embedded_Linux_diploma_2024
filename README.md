@@ -1,0 +1,1 @@
+Welcome to the repository for my Embedded Linux diploma! This repository contains all the tasks, projects, and assignments.
